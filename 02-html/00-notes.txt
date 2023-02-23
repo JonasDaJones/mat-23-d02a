@@ -125,3 +125,9 @@ Typing Learning:
 - https://www.typing.com/student/games
 - https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr#zgkpn39
 
+
+---
+
+Emmet abreviation: 
+- https://docs.emmet.io/cheat-sheet/
+
