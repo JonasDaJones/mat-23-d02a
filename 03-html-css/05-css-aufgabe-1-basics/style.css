@@ -1,0 +1,40 @@
+body {
+  font-family: sans-serif;
+}
+
+section {
+    border: 1px solid grey;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* --- 1 --- */
+.top-text {
+  font-size: 12px;
+  color: orange;
+}
+
+.primary-color {
+  color: rgb(182, 120, 3);
+}
+
+/* --- 2 --- */
+.middle-text {
+  font-size: 18px;
+  color: aqua;
+}
+
+.secondary-color {
+  color: rgb(0, 172, 172);
+}
+
+/* --- 3 --- */
+.bottom-text {
+  font-size: 22px;
+  color: chartreuse;
+}
+
+.tercary-color {
+  color: rgb(83, 166, 0);
+}
