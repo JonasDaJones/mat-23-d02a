@@ -1,0 +1,67 @@
+/* Grouping Selector: */
+h2,
+h3,
+h4 {
+  color: green;
+}
+
+/* Descendant Selector: */
+div p {
+  color: brown;
+}
+
+/* Child Selector: */
+main > p {
+  color: cadetblue;
+}
+
+/* Adjacent Sibling Selector: */
+h5 + p {
+  color: yellow;
+}
+
+/* ---------------- */
+
+/* Specificity: */
+/* id hatt die höchste priorität (100) */
+#heading-id {
+  color: chocolate;
+}
+
+/* class hatt die mittlere priorität (010) */
+.heading-class {
+  color: blue;
+}
+
+/* Tag name hatt die niedrigste priorität (001) */
+h1 {
+  color: red;
+}
+
+h1 {
+  color: aquamarine;
+}
+
+/* Inheritence: */
+body {
+  font-family: sans-serif;
+}
+
+/* DRY Principle: */
+/* Don't repeat yourself: */
+/* bad example: */
+h2 {
+  color: red;
+}
+h3 {
+  color: red;
+}
+h4 {
+  color: red;
+}
+/* good example: */
+h2,
+h3,
+h4 {
+  color: red;
+}
