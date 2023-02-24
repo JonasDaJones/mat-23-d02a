@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>3 Ways of using CSS</title>
+
+    <!-- INTERNAL CSS: -->
+    <style>
+      h3 {
+        color: red;
+        font-size: 35px;
+      }
+    </style>
+
+    <!-- IMPORT EXTERNAL CSS: -->
+    <link rel="stylesheet" href="./01-style.css" />
+  </head>
+  <body>
+    <!-- 
+    Inline: in denn html element, als style attribut
+    Internal: in denn html document, in style element
+    External: in eine externe css datei, die im head bereich verlinkt würd
+    -->
+
+    <h1>3 Ways of using CSS</h1>
+
+    <!-- Inline CSS: -->
+    <h2 style="color: red; font-size: 35px">I am an h2</h2>
+
+    <!-- Internal CSS: -->
+    <h3>I am an h3</h3>
+
+    <!-- External CSS: -->
+    <h4>I am an h4</h4>
+  </body>
+</html>
