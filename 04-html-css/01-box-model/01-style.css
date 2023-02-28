@@ -1,0 +1,43 @@
+body {
+  font-family: sans-serif;
+}
+
+/* BOX MODEL: */
+div.box-model {
+  /* CONTENT: */
+  width: 200px;
+  height: 300px;
+
+  /* BORDER: */
+  border: 5px dashed red;
+  border: 5px dotted red;
+  border: 2px solid red;
+
+  /* PADDING: */
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  /* top, right, bottom, left */
+  padding: 10px 20px 30px 40px;
+  /* top, right and left, bottom */
+  padding: 10px 20px 30px;
+  /* top and bottom, right and left: */
+  padding: 10px 20px;
+  /* top and right and bottom and left: */
+  padding: 10px;
+
+  /* MARGIN: */
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  /* top, right, bottom, left */
+  margin: 10px 20px 30px 40px;
+  /* top, right and left, bottom */
+  margin: 10px 20px 30px;
+  /* top and bottom, right and left: */
+  margin: 10px 20px;
+  /* top and right and bottom and left: */
+  margin: 10px;
+}
