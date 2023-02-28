@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+}
+
+div.text-format {
+  border: 2px solid red;
+  /* TEXT ALIGN: */
+  text-align: right;
+  text-align: center;
+  text-align: justify;
+  text-align: left;
+
+  /* TEXT DECORATION: */
+  text-decoration: overline;
+  text-decoration: line-through;
+  text-decoration: underline;
+
+  /* TEXT TRANSFORM: */
+  text-transform: lowercase;
+  text-transform: capitalize;
+  text-transform: uppercase;
+
+  /* TEXT SPACING: */
+  letter-spacing: 2px;
+  word-spacing: 4px;
+
+  /* TEXT SHADOW: */
+  text-shadow: 2px 2px 5px red;
+  box-shadow: 2px 2px 5px red;
+}
