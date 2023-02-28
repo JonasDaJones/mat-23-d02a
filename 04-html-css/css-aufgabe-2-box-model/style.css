@@ -1,0 +1,47 @@
+body {
+  font-family: sans-serif;
+}
+
+section,
+p {
+  border-radius: 8px;
+}
+
+/* TOP: */
+.section-top {
+  border: 5px dashed purple;
+  margin: 30px 50px;
+  padding: 20px 40px;
+}
+
+.section-top p {
+  border: 2px solid rgb(229, 255, 0);
+  width: 50%;
+  margin: 10px auto;
+}
+
+/* MIDDLE: */
+.section-middle {
+  border: 5px solid green;
+  margin: 40px;
+  padding: 30px;
+}
+
+.section-middle p {
+  border: 2px solid rgb(0, 208, 255);
+  width: 50%;
+  margin: 10px auto;
+}
+
+/* BOTTOM: */
+.section-bottom {
+  border: 5px dotted cyan;
+  margin: 20px 30px 40px 50px;
+  padding: 20px 30px 40px 50px;
+}
+
+.section-bottom p {
+  border: 2px solid rgb(204, 0, 255);
+  width: 50%;
+  margin: 10px auto;
+}
