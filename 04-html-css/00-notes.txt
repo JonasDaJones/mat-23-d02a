@@ -1,0 +1,20 @@
+Web Development Year Course
+
+- 1: Basic Digital Literacy
+- 2: UI Basics (User Interface, HTML CSS)
+- 3: Programming Basics (JavaScript)
+- 4: Single Page Application (React.js)
+- 5: Backend (Node.js, express, mongodb)
+- 6: Final Project
+
+- 7: Praktikum  / Internship
+
+
+
+
+
+---
+
+Web Site/App: React.
+https://reactjs.org/
+
