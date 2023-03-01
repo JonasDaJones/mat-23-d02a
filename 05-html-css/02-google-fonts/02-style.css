@@ -1,0 +1,15 @@
+/* https://fonts.google.com/ */
+
+section {
+  border: 1px solid grey;
+  margin: 10px;
+  padding: 10px;
+}
+
+.g-font-serif {
+  font-family: "Montserrat", sans-serif;
+}
+
+.g-font-sans-serif {
+  font-family: "Playfair Display", serif;
+}
