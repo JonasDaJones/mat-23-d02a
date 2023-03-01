@@ -1,0 +1,20 @@
+section {
+  border: 1px solid grey;
+  margin: 10px;
+  padding: 10px;
+}
+
+.font-serif {
+  color: blue;
+  font-family: "IBM Plex Serif", serif;
+}
+
+.font-sans-serif {
+  color: green;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.font-mono {
+  color: purple;
+  font-family: "Ubuntu Mono", monospace;
+}

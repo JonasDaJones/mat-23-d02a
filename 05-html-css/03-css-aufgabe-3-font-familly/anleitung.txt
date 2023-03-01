@@ -1,0 +1,17 @@
+6-CSS-Fonts
+
+Instructions
+
+- Create a file named index.html​ under the new folder.
+
+- This file should include the basic HTML structure with the ! shortcut.
+- Add 3 section, with each an h2 and a paragraph.
+- Create a file named style.css inside the 6-CSS-Fonts folder.
+- Link the CSS file to your HTML file in the head of the HTML.
+
+
+- Change the first section font to a font from the sans-serif family.
+- Change the second section font to a font from the monospace family.
+
+(Watch later)Download and add fonts:
+https://www.youtube.com/watch?v=StykiFKVQqI
