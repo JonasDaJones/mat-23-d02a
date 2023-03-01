@@ -1,0 +1,27 @@
+# HTML TAG/DAY 5
+
+CSS - Cascading Style Sheets
+
+---
+
+## WICHTIG / IMPORTANT
+
+
+HTML Validator:
+    - https://validator.w3.org/#validate_by_input
+
+CSS Validator:
+    - https://jigsaw.w3.org/css-validator/#validate_by_input
+
+
+W3School Documentation:
+    - https://www.w3schools.com/html/
+
+MDN (mozilla developer network) Documentation:
+    - https://developer.mozilla.org/de/docs/Web/HTML
+
+
+VSCode Shortcuts:
+    - https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+    - https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+    - https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf

@@ -1,0 +1,17 @@
+section {
+  border: 1px solid grey;
+  margin: 10px;
+  padding: 10px;
+}
+
+.font-serif {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.font-sans-serif {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.font-mono {
+  font-family: 'Courier New', Courier, monospace;
+}
