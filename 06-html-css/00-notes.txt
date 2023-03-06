@@ -24,7 +24,6 @@ Google Fonts:
 
 Font Awesome:
 - https://fontawesome.com/
-
 Font Awesome CDN Link:
 - https://cdnjs.com/libraries/font-awesome
 
@@ -74,7 +73,6 @@ FINALE PROJEKTEN BEISPIELE:
 - https://dkathrine.github.io/
 - https://pedrolambarri.github.io/final-proyect/
 - https://mrbubbles-src.github.io/dci_mat22_d08a_my_first_project_manuel_fahrenholz/
-- https://antantonov.github.io/finalproject_mat_webdev/
 
 
 
